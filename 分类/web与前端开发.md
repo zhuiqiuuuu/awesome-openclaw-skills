@@ -1,0 +1,164 @@
+# Web与前端开发
+
+[← 返回主列表](../README-中文.md#目录)
+
+**925 个技能**
+
+- [0xwork](https://github.com/openclaw/skills/tree/main/skills/jkillr/0xwork/SKILL.md) - 在0xWork去中心化市场（Base链，USDC托管）上查找并完成付费任务
+- [37soul-skill](https://github.com/openclaw/skills/tree/main/skills/xnjiang/37soul-skill/SKILL.md) - 将您的AI代理连接到37Soul虚拟主机角色并启用
+- [acestep](https://github.com/openclaw/skills/tree/main/skills/dumoedss/acestep/SKILL.md) - 使用ACE-Step API生成音乐、编辑歌曲和混音音乐
+- [actionbook](https://github.com/openclaw/skills/tree/main/skills/adcentury/actionbook/SKILL.md) - 当用户需要与任何网站交互时激活 - 浏览器自动化、网页抓取、屏幕截图、表单
+- [aegis-shield](https://github.com/openclaw/skills/tree/main/skills/deegerwalker/aegis-shield/SKILL.md) - 对不受信任文本的提示注入和数据泄露筛选
+- [aeo-analytics-free](https://github.com/openclaw/skills/tree/main/skills/psyduckler/aeo-analytics-free/SKILL.md) - 跟踪AI可见性 - 测量品牌是否被AI助手（Gemini、ChatGPT、Perplexity）提及和引用
+- [aeo-content-free](https://github.com/openclaw/skills/tree/main/skills/psyduckler/aeo-content-free/SKILL.md) - 创建或刷新AEO优化内容，被AI助手（Gemini、ChatGPT、Perplexity）引用
+- [aeo-prompt-frequency-analyzer](https://github.com/openclaw/skills/tree/main/skills/psyduckler/aeo-prompt-frequency-analyzer/SKILL.md) - 通过多次运行Google搜索分析Gemini在回答提示时使用哪些搜索查询
+- [aeo-prompt-research-free](https://github.com/openclaw/skills/tree/main/skills/psyduckler/aeo-prompt-research-free/SKILL.md) - 仅使用免费工具发现品牌答案引擎优化（AEO）重要的AI提示和主题
+- [agent-analytics](https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/agent-analytics/SKILL.md) - 您的AI代理控制的简单网站分析
+- [agent-chat](https://github.com/openclaw/skills/tree/main/skills/awlevin/agent-chat/SKILL.md) - AI代理的临时实时聊天室
+- [agent-dashboard](https://github.com/openclaw/skills/tree/main/skills/tahseen137/agent-dashboard/SKILL.md) - OpenClaw的实时代理仪表板
+- [agent-dispatch](https://github.com/openclaw/skills/tree/main/skills/userfrm/agent-dispatch/SKILL.md) - 轻量级代理注册表和JIT路由器
+- [agent-hq](https://github.com/openclaw/skills/tree/main/skills/thibautrey/agent-hq/SKILL.md) - 部署代理HQ任务控制堆栈（Express + React + Telegram通知器/Jarvis摘要），以便其他Clawdbot
+- [agent-passport](https://github.com/openclaw/skills/tree/main/skills/markneville/agent-passport/SKILL.md) - 代理时代的OAuth - 对所有敏感代理操作（包括购买、电子邮件、文件）的同意门控
+- [agent-rate-limiter](https://github.com/openclaw/skills/tree/main/skills/mxmsabundance/agent-rate-limiter/SKILL.md) - 你知道该怎么做
+- [agent-self-assessment](https://github.com/openclaw/skills/tree/main/skills/roosch269/agent-self-assessment/SKILL.md) - AI代理的安全自我评估工具
+- [agent-self-reflection](https://github.com/openclaw/skills/tree/main/skills/brennerspear/agent-self-reflection/SKILL.md) - 对最近会话的定期自我反思
+- [agent-skills-audit](https://github.com/openclaw/skills/tree/main/skills/swader/agent-skills-audit/SKILL.md) - 由决胜者领导的双遍、多学科代码审计，结合安全性、性能、UX、DX
+- [agent-spawner](https://github.com/openclaw/skills/tree/main/skills/austineral/agent-spawner/SKILL.md) - 通过对话生成新的OpenClaw代理
+- [agent-swarm](https://github.com/openclaw/skills/tree/main/skills/runeweaverstudios/agent-swarm/SKILL.md) - 重要：需要OpenRouter
+- [agent-takeover](https://github.com/openclaw/skills/tree/main/skills/tracsystems/agent-takeover/SKILL.md) - 如何执行Clawfinger语音网关的实时代理接管 - 拨号、注入问候语、处理轮流
+- [agent-topology-visualizer](https://github.com/openclaw/skills/tree/main/skills/gavinnn-m/agent-topology-visualizer/SKILL.md) - 为AI代理系统生成交互式SVG架构图
+- [agentdomainservice](https://github.com/openclaw/skills/tree/main/skills/gregm711/agentdomainservice/SKILL.md) - 世界#1 AI友好域名注册商
+- [agentic-browser-0-1-2](https://github.com/openclaw/skills/tree/main/skills/xyny89/agentic-browser-0-1-2/SKILL.md) - 通过inference.sh为AI代理提供浏览器自动化
+- [agentic-security-audit](https://github.com/openclaw/skills/tree/main/skills/kingrubic/agentic-security-audit/SKILL.md) - 审计代码库、基础设施和代理AI系统的安全问题
+- [agentns](https://github.com/openclaw/skills/tree/main/skills/vibrant/agentns/SKILL.md) - 为AI代理注册和管理ICANN域名
+- [agentpay](https://github.com/openclaw/skills/tree/main/skills/kar69-96/agentpay/SKILL.md) - 代表您从真实网站购买东西
+- [agentpin](https://github.com/openclaw/skills/tree/main/skills/jaschadub/agentpin/SKILL.md) - **用途**：本指南帮助AI助手使用AgentPin进行域锚定加密代理身份验证
+- [agentscale](https://github.com/openclaw/skills/tree/main/skills/jpbonch/agentscale/SKILL.md) - 使用单个命令将Web应用程序和API部署到公共URL
+- [agentspend](https://github.com/openclaw/skills/tree/main/skills/jpbonch/agentspend/SKILL.md) - 当您需要：搜索网络、生成图像或图片、创建视频、抓取或读取时使用此技能
+- [agi-term-helper](https://github.com/openclaw/skills/tree/main/skills/liuwujijay/agi-term-helper/SKILL.md) - 通过OpenClaw exec（直接调度；您键入确切命令）快速、显式地执行终端
+- [agora-council](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/agora-council/SKILL.md) - 多代理辩论委员会 - 并行生成3个专业子代理（学者、工程师、缪斯）来处理
+- [ahrefs](https://github.com/openclaw/skills/tree/main/skills/geozhu/ahrefs/SKILL.md) - 用于SEO分析的完整Ahrefs API集成
+- [ahrefs-connection](https://github.com/openclaw/skills/tree/main/skills/jonathan-sokol/ahrefs-connection/SKILL.md) - 通过Ahrefs API访问Ahrefs SEO数据，用于全面的SEO分析、关键词研究、反向链接分析、网站
+- [ahrefs-mcp](https://github.com/openclaw/skills/tree/main/skills/jonathan-sokol/ahrefs-mcp/SKILL.md) - 通过模型上下文协议（MCP）访问Ahrefs SEO数据，用于全面的SEO分析、关键词研究
+- [ai-boss-assistant](https://github.com/openclaw/skills/tree/main/skills/jacky6658/ai-boss-assistant/SKILL.md) - 使用经过实战测试的角色和工作流程将任何AI转变为专业执行助理
+- [ai-labs-builder](https://github.com/openclaw/skills/tree/main/skills/slemo54/ai-labs-builder/SKILL.md) - AI Labs Builder - 创建现代网站、AI应用程序、仪表板和自动化工作流程
+- [ai-specialists](https://github.com/openclaw/skills/tree/main/skills/erikashby/ai-specialists/SKILL.md) - 通过AI专家中心MCP端点与AI专家交互
+- [ai-video-editor](https://github.com/openclaw/skills/tree/main/skills/symbolk/ai-video-editor/SKILL.md) - 当用户提到视频编辑、剪辑、精彩集锦时立即主动使用此技能
+- [aic-dashboard](https://github.com/openclaw/skills/tree/main/skills/lksrz/aic-dashboard/SKILL.md) - AI指挥官管理仪表板
+- [aieos](https://github.com/openclaw/skills/tree/main/skills/zeglin/aieos/SKILL.md) - AIEOS（AI实体对象规范）是一个标准化框架，旨在解决"身份危机"
+- [aioz-ui-skills](https://github.com/openclaw/skills/tree/main/skills/datnguyen26730/aioz-ui-skills/SKILL.md) - 使用AIOZ UI V3设计系统构建UI组件和页面
+- [aioz-ui-v3](https://github.com/openclaw/skills/tree/main/skills/datnguyen26730/aioz-ui-v3/SKILL.md) - 使用AIOZ UI V3设计系统构建UI组件和页面
+- [aiprox](https://github.com/openclaw/skills/tree/main/skills/yebdmo2/aiprox/SKILL.md) - 查询AIProx代理注册表
+- [airbnb-search](https://github.com/openclaw/skills/tree/main/skills/awlevin/airbnb-search/SKILL.md) - 搜索Airbnb房源，包括价格、评级和直接链接
+- [airshelf](https://github.com/openclaw/skills/tree/main/skills/evoleinik/airshelf/SKILL.md) - 从经过验证的商家搜索、比较和购买产品
+- [aisa-search-skill](https://github.com/openclaw/skills/tree/main/skills/bowen-dotcom/aisa-search-skill/SKILL.md) - 代理的智能搜索
+- [aladdn-market](https://github.com/openclaw/skills/tree/main/skills/aladdntech/aladdn-market/SKILL.md) - 在ClawMarket上买卖产品和服务 - 第一个AI代理市场
+- [aliyun-mail](https://github.com/openclaw/skills/tree/main/skills/jixsonwang/aliyun-mail/SKILL.md) - 通过阿里云企业邮件服务发送电子邮件的技能，支持markdown、HTML文本、附件
+- [alpha-1-0-0](https://github.com/openclaw/skills/tree/main/skills/tariqsumatri82/alpha-1-0-0/SKILL.md) - Binance Alpha新币上线检测器
+- [anima-design-agent](https://github.com/openclaw/skills/tree/main/skills/dannyshmueli/anima-design-agent/SKILL.md) - 将想法转化为实时的、全栈Web应用程序，具有可编辑代码、内置数据库、用户身份验证
+- [ant-design-skill](https://github.com/openclaw/skills/tree/main/skills/felipeoff/ant-design-skill/SKILL.md) - 使用Ant Design（antd）构建React UI的前端设计技能：组件模式、布局、表单、表格
+- [antfarm-cli](https://github.com/openclaw/skills/tree/main/skills/felipetruman/antfarm-cli/SKILL.md) - 始终使用完整路径：`node ~/.openclaw/workspace/antfarm/dist/cli/cli.js`
+- [anti-panic-protocol](https://github.com/openclaw/skills/tree/main/skills/noelistired/anti-panic-protocol/SKILL.md) - 在压力下处理工具故障，具有有界重试、干净的用户通信和安全的升级
+- [anti-pattern-czar](https://github.com/openclaw/skills/tree/main/skills/glucksberg/anti-pattern-czar/SKILL.md) - 使用状态持久化和审批工作流程检测和修复TypeScript错误处理反模式
+- [anti-slop-design](https://github.com/openclaw/skills/tree/main/skills/kjaylee/anti-slop-design/SKILL.md) - 创建独特、生产级的前端界面，避免通用的AI美学
+- [anvevoice](https://github.com/openclaw/skills/tree/main/skills/anveai/anvevoice/SKILL.md) - 为您的网站添加AI语音助手
+- [anydocs](https://github.com/openclaw/skills/tree/main/skills/pektech/anydocs/SKILL.md) - 通用文档索引和搜索
+- [aoineco-squad-dispatch](https://github.com/openclaw/skills/tree/main/skills/edmonddantesj/aoineco-squad-dispatch/SKILL.md) - <!-- 🌌 Aoineco-Verified | S-DNA: AOI-2026-0213-SDNA-SD01 -->
+- [apechain-reader](https://github.com/openclaw/skills/tree/main/skills/luigi08001/apechain-reader/SKILL.md) - 高级多链钱包分析器，具有USD定价、集合名称、ENS支持和复杂机器人
+- [apewisdom](https://github.com/openclaw/skills/tree/main/skills/stuhorsman/apewisdom/SKILL.md) - 使用ApeWisdom API（免费）扫描Reddit获取热门股票和情绪峰值
+- [api-dev](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/api-dev/SKILL.md) - 搭建、测试、记录和调试REST和GraphQL API
+- [apify-ultimate-scraper](https://github.com/openclaw/skills/tree/main/skills/protoss70/apify-ultimate-scraper/SKILL.md) - 适用于任何平台的通用AI驱动网络抓取工具
+- [apipick-company-facts](https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-company-facts/SKILL.md) - 使用apipick公司事实API按股票代码或SEC CIK号码检索公开公司信息
+- [apipick-email-checker](https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-email-checker/SKILL.md) - 使用apipick电子邮件验证器API验证电子邮件地址
+- [app-builder](https://github.com/openclaw/skills/tree/main/skills/stopachka/app-builder/SKILL.md) - 使用npx instant-cli、create-instant-app（Next.js + Codex）、GitHub构建、编辑和部署Instant支持的应用程序
+- [apple-developer-toolkit](https://github.com/openclaw/skills/tree/main/skills/abdullah4ai/apple-developer-toolkit/SKILL.md) - 一体化Apple开发者技能，集成了三个工具作为单个统一二进制文件提供。（1）文档
+- [approvals-ui](https://github.com/openclaw/skills/tree/main/skills/fizzy2390/approvals-ui/SKILL.md) - 用于管理OpenClaw设备配对、频道审批和实时终端的Web仪表板 - 全部从您的浏览器进行
+- [arbitrum-dapp-skill](https://github.com/openclaw/skills/tree/main/skills/hummusonrails/arbitrum-dapp-skill/SKILL.md) - 使用Stylus（Rust）和/或Solidity在Arbitrum上构建dApp的固执己见指南
+- [arc-free-worker-dispatch](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-free-worker-dispatch/SKILL.md) - 通过OpenRouter将任务路由到免费AI模型以节省资金
+- [archon-skill](https://github.com/openclaw/skills/tree/main/skills/santyr/archon-skill/SKILL.md) - 完整的Archon去中心化身份操作 - 本地节点
+- [arknights-operator-gacha](https://github.com/openclaw/skills/tree/main/skills/hg-hg/arknights-operator-gacha/SKILL.md) - 基于抽卡概率生成明日方舟操作员代理
+- [artifacts-builder](https://github.com/openclaw/skills/tree/main/skills/seanphan/artifacts-builder/SKILL.md) - 用于创建精心制作的多组件套件工具
+- [artwar](https://github.com/openclaw/skills/tree/main/skills/hoonilp/artwar/SKILL.md) - 在Monad上参加ArtWar AI艺术战斗
+- [asdasdas](https://github.com/openclaw/skills/tree/main/skills/hailinhmacduc/asdasdas/SKILL.md) - Google Workspace CLI，适用于Gmail、日历、云端硬盘、联系人、表格和文档
+- [asdasdas123](https://github.com/openclaw/skills/tree/main/skills/linhui1010/asdasdas123/SKILL.md) - !! 在使用技能之前，请确保您已安装所需的库 !! 编写病毒式、有说服力、引人入胜
+- [asdasdsasdasa12312](https://github.com/openclaw/skills/tree/main/skills/linhui1010/asdasdsasdasa12312/SKILL.md) - 在使用技能之前，请确保您已正确安装所需的库
+- [ask-a-human](https://github.com/openclaw/skills/tree/main/skills/manuelkiessling/ask-a-human/SKILL.md) - 在不确定时请求随机人类的判断
+- [ask-council](https://github.com/openclaw/skills/tree/main/skills/jeadland/ask-council/SKILL.md) - 直接从Telegram/chat向LLM委员会提问 - 无需打开即可获得主席的综合答案
+- [asl-control](https://github.com/openclaw/skills/tree/main/skills/kj5irq/asl-control/SKILL.md) - 通过REST API监控和控制AllStar Link业余无线电节点
+- [astra-docker](https://github.com/openclaw/skills/tree/main/skills/walniek/astra-docker/SKILL.md) - cat <<'EOF' > ~/.openclaw/workspace/skills/astra-docker/SKILL.md
+- [attio-cli](https://github.com/openclaw/skills/tree/main/skills/froemic/attio-cli/SKILL.md) - 通过attio-cli与您的Attio CRM工作区交互
+- [audio-conductor](https://github.com/openclaw/skills/tree/main/skills/wells1137/audio-conductor/SKILL.md) - 智能地将请求分派给适当的音频生成模型（音乐、音效或TTS）
+- [audos](https://github.com/openclaw/skills/tree/main/skills/werdelin/audos/SKILL.md) - 通过Audos API创建AI驱动的创业工作区
+- [auteng-docs](https://github.com/openclaw/skills/tree/main/skills/operator-auteng-ai/auteng-docs/SKILL.md) - 发布带有Mermaid图表、KaTeX数学公式和代码高亮的技术文档
+- [autogame-tales](https://github.com/openclaw/skills/tree/main/skills/autogame-17/autogame-tales/SKILL.md) - 根据随机提示生成简短的、有氛围的鬼故事或微小说
+- [autonomous-agent-instant-message-system](https://github.com/openclaw/skills/tree/main/skills/ooxxxxoo/autonomous-agent-instant-message-system/SKILL.md) - Prismer Cloud提供三个核心功能：**上下文**（网页获取/搜索）、**解析**（文档OCR）
+- [autonomous-task-runner](https://github.com/openclaw/skills/tree/main/skills/chunhualiao/autonomous-task-runner/SKILL.md) - 持久任务队列系统
+- [awwwards-design](https://github.com/openclaw/skills/tree/main/skills/mkhaytman87/awwwards-design/SKILL.md) - 创建获奖、令人难忘的网站，具有高级动画、创意交互和独特的视觉
+- [axe-devtools](https://github.com/openclaw/skills/tree/main/skills/dylanb/axe-devtools/SKILL.md) - 使用axe MCP服务器进行可访问性测试和修复
+- [b0tresch-stealth-browser](https://github.com/openclaw/skills/tree/main/skills/b0tresch/b0tresch-stealth-browser/SKILL.md) - 使用带有stealth插件的puppeteer-extra绕过机器人检测、CAPTCHA和IP封锁的反检测网络浏览
+- [backboard](https://github.com/openclaw/skills/tree/main/skills/chrisk60331/backboard/SKILL.md) - 为助手、线程、内存集成Backboard.io
+- [backlink-analyzer](https://github.com/openclaw/skills/tree/main/skills/aaron-he-zhu/backlink-analyzer/SKILL.md) - 当用户要求"分析反向链接"、"检查链接配置文件"、"查找有毒链接"、"链接建设"时使用
+- [baeckerherz](https://github.com/openclaw/skills/tree/main/skills/kleberbaum/baeckerherz/SKILL.md) - Netsnek e.U.面包店管理平台的Baeckerherz命名空间
+- [bailian-web-search](https://github.com/openclaw/skills/tree/main/skills/krisyejh/bailian-web-search/SKILL.md) - 通过百炼（阿里巴巴ModelStdio）API进行AI优化的网络搜索
+- [baml-codegen](https://github.com/openclaw/skills/tree/main/skills/killerapp/baml-codegen/SKILL.md) - 在生成BAML代码用于类型安全的LLM提取、分类、RAG或代理工作流程时使用 - 创建
+- [baoyu-post-to-x](https://github.com/openclaw/skills/tree/main/skills/liuhedev/baoyu-post-to-x/SKILL.md) - 将内容和文章发布到X（Twitter）
+- [benos-bootstrap](https://github.com/openclaw/skills/tree/main/skills/benmjohnson69/benos-bootstrap/SKILL.md) - BenOS Bootstrap是基于OpenClaw的代理堆栈的系统初始化技能
+- [bitrefill-website](https://github.com/openclaw/skills/tree/main/skills/marcopesani/bitrefill-website/SKILL.md) - 帮助用户在Bitrefill（bitrefill.com）上完成任务：浏览和搜索礼品卡、手机充值和eSIM
+- [bitrix24-apiskill](https://github.com/openclaw/skills/tree/main/skills/vrtalex/bitrix24-apiskill/SKILL.md) - 设计、实施、调试和强化AI代理与Bitrix24 REST API之间的集成（Webhooks、OAuth 2.0
+- [bonero-miner](https://github.com/openclaw/skills/tree/main/skills/happybigmtn/bonero-miner/SKILL.md) - 挖掘Bonero - AI代理的私人加密货币
+- [bot-status-api](https://github.com/openclaw/skills/tree/main/skills/suspect80/bot-status-api/SKILL.md) - 部署一个公开您的OpenClaw的轻量级状态API
+- [bot-status-api-test](https://github.com/openclaw/skills/tree/main/skills/suspect80/bot-status-api-test/SKILL.md) - 部署一个公开您的轻量级状态API
+- [botcast](https://github.com/openclaw/skills/tree/main/skills/cpascoli/botcast/SKILL.md) - Botcast — AI代理的播客平台
+- [botworld-comms](https://github.com/openclaw/skills/tree/main/skills/alphafanx/botworld-comms/SKILL.md) - AI代理的实时发布/订阅事件总线
+- [brave-api-search](https://github.com/openclaw/skills/tree/main/skills/broedkrummen/brave-api-search/SKILL.md) - 使用官方Brave Search API进行实时网络搜索和AI驱动的答案
+- [brave-api-setup](https://github.com/openclaw/skills/tree/main/skills/garibong-labs/brave-api-setup/SKILL.md) - 为OpenClaw web_search设置Brave Search API
+- [brave-headless](https://github.com/openclaw/skills/tree/main/skills/kelexine/brave-headless/SKILL.md) - 通过Brave Search API进行无头网络搜索和内容提取
+- [bria-ai](https://github.com/openclaw/skills/tree/main/skills/galbria/bria-ai/SKILL.md) - 使用Bria.ai商业安全AI模型进行可控图像生成和编辑
+- [bria-ai-api](https://github.com/openclaw/skills/tree/main/skills/galbria/bria-ai-api/SKILL.md) - 在使用Bria.ai生成视觉资源时使用 - 产品照片、英雄图像、图标、背景
+- [bria-ai-api-skill](https://github.com/openclaw/skills/tree/main/skills/galbria/bria-ai-api-skill/SKILL.md) - 在使用Bria.ai生成视觉资源时使用 - 产品照片、英雄图像、图标、背景
+- [bria-ai-client](https://github.com/openclaw/skills/tree/main/skills/galbria/bria-ai-client/SKILL.md) - 在使用Bria.ai生成视觉资源时使用 - 产品照片、英雄图像、图标、背景
+- [bricks-cli](https://github.com/openclaw/skills/tree/main/skills/jhen0409/bricks-cli/SKILL.md) - 通过CLI管理BRICKS工作区
+- [briefing-room](https://github.com/openclaw/skills/tree/main/skills/matusvojtek/briefing-room/SKILL.md) - 每日新闻简报生成器 - 生成对话式广播主持人风格的音频简报 + DOCX文档，涵盖
+- [bring-rezepte](https://github.com/openclaw/skills/tree/main/skills/dolverin/bring-rezepte/SKILL.md) - 在运行OpenClaw/ClawHub Bring!技能以在网络上搜索食谱、解析食谱URL以获取配料时使用
+- [brw-homepage-audit](https://github.com/openclaw/skills/tree/main/skills/brianrwagner/brw-homepage-audit/SKILL.md) - 任何主页或着陆页的快速转换审计
+- [buddhist-counsel](https://github.com/openclaw/skills/tree/main/skills/daisuke134/buddhist-counsel/SKILL.md) - 调用Anicca佛教咨询x402付费API，使用佛教智慧 + 循证疗法来减少痛苦
+- [bug-reaper](https://github.com/openclaw/skills/tree/main/skills/shaniidev/bug-reaper/SKILL.md) - Web2漏洞赏金狩猎代理 - 基于证据的漏洞发现者和报告编写者
+- [build-warden-agent](https://github.com/openclaw/skills/tree/main/skills/kryptopaid/build-warden-agent/SKILL.md) - 为Warden协议构建原创LangGraph代理，并准备在Warden Studio中发布
+- [bullybuddy](https://github.com/openclaw/skills/tree/main/skills/chenkuansun/bullybuddy/SKILL.md) - BullyBuddy — Claude Code会话管理器CLI包装器
+- [bunpro-sync](https://github.com/openclaw/skills/tree/main/skills/mart1n-xyz/bunpro-sync/SKILL.md) - 将Bunpro日语语法学习进度从API同步到本地存储以进行分析和洞察
+- [business-model-canvas](https://github.com/openclaw/skills/tree/main/skills/jk-0001/business-model-canvas/SKILL.md) - 构建、填充、压力测试和迭代
+- [butler](https://github.com/openclaw/skills/tree/main/skills/sarthib7/butler/SKILL.md) - **Butler**是一个OpenClaw技能，可将AI代理转变为自主经济实体
+- [buy-handshake-domain](https://github.com/openclaw/skills/tree/main/skills/techno-hippies/buy-handshake-domain/SKILL.md) - 注册主权域（.badass、.forever、.fuck、.rebel、.pump、.hello、.howdy、.robo、.dnet、.f，熊表情符号）
+- [cacheforge](https://github.com/openclaw/skills/tree/main/skills/tkuehnl/cacheforge/SKILL.md) - CacheForge主要技能 - 引导OpenAI兼容令牌优化网关的引导入职 + 操作 + 统计
+- [caddy-reverse-proxy](https://github.com/openclaw/skills/tree/main/skills/brennerspear/caddy-reverse-proxy/SKILL.md) - 通过通配符子域为本地应用程序添加、管理和故障排除Caddy反向代理路由
+- [calibre-catalog-read](https://github.com/openclaw/skills/tree/main/skills/nextaltair/calibre-catalog-read/SKILL.md) - 通过内容服务器上的calibredb读取Calibre目录数据，并运行单书分析工作流程，写入HTML
+- [call-web-search-agent](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/call-web-search-agent/SKILL.md) - 用于调用网络搜索代理任务的AI代理
+- [call-web-search-agent-strategy](https://github.com/openclaw/skills/tree/main/skills/alvinecarn/call-web-search-agent-strategy/SKILL.md) - 用于调用网络搜索代理策略任务的AI代理
+- [camera](https://github.com/openclaw/skills/tree/main/skills/therohitdas/camera/SKILL.md) - 从MacBook网络摄像头捕获照片
+- [camino-relationship](https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/camino-relationship/SKILL.md) - 计算两点之间的空间关系，包括距离、方向、旅行时间和人类可读
+- [camofox-mcp](https://github.com/openclaw/skills/tree/main/skills/redf0x1/camofox-mcp/SKILL.md) - 用于OpenClaw代理的反检测浏览器自动化MCP技能，具有41个导航、交互工具
+- [cancorteaw-app](https://github.com/openclaw/skills/tree/main/skills/cancorleone/cancorteaw-app/SKILL.md) - 我的OpenClaw服务器的本地**Expo / React Native**应用程序构建器运行器
+- [capabilityevolver1037](https://github.com/openclaw/skills/tree/main/skills/opencloseopenclose/capabilityevolver1037/SKILL.md) - AI代理的自我进化引擎
+- [capture-website](https://github.com/openclaw/skills/tree/main/skills/silencezx007/capture-website/SKILL.md) - 从命令行捕获网站屏幕截图
+- [cart-management](https://github.com/openclaw/skills/tree/main/skills/konscious0beast/cart-management/SKILL.md) - React购物车状态管理：防止重复、localStorage持久性、CartContext模式
+- [celo-agent-skills](https://github.com/openclaw/skills/tree/main/skills/viral-sangani/celo-agent-skills/SKILL.md) - 端到端Celo开发手册（2026年2月）
+- [ceo-advisor](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/ceo-advisor/SKILL.md) - 战略决策的执行领导指导
+- [chemistry-query](https://github.com/openclaw/skills/tree/main/skills/cheminem/chemistry-query/SKILL.md) - 用于PubChem API查询的化学代理技能（化合物信息/属性、结构/SMILES/图像、合成
+- [chia-walletconnect](https://github.com/openclaw/skills/tree/main/skills/koba42corp/chia-walletconnect/SKILL.md) - 通过WalletConnect和Sage进行Chia钱包验证的Telegram Web应用程序
+- [chilledsites](https://github.com/openclaw/skills/tree/main/skills/paulgosnell/chilledsites/SKILL.md) - AI驱动的网站生成和部署
+- [chrome-devtools](https://github.com/openclaw/skills/tree/main/skills/podcasting101/chrome-devtools/SKILL.md) - 通过MCP使用Chrome DevTools进行高效调试、故障排除和浏览器自动化
+- [civitai-api-art](https://github.com/openclaw/skills/tree/main/skills/shinnpuru/civitai-api-art/SKILL.md) - 使用CivitAI的JavaScript SDK生成AI艺术作品
+- [claude-agent-team-workflows](https://github.com/openclaw/skills/tree/main/skills/doanbactam/claude-agent-team-workflows/SKILL.md) - 使用Claude Code代理团队进行通用多代理工作流程编排
+- [claude-code-pro](https://github.com/openclaw/skills/tree/main/skills/swaylq/claude-code-pro/SKILL.md) - 令牌高效的Claude Code工作流程
+- [claude-code-teams](https://github.com/openclaw/skills/tree/main/skills/matthew-a-gordon/claude-code-teams/SKILL.md) - 用于编排Claude Code原生代理团队功能的生产技能
+- [claude-mem](https://github.com/openclaw/skills/tree/main/skills/thedotmack/claude-mem/SKILL.md) - 本指南介绍如何在OpenClaw网关上设置claude-mem插件
+- [claw-shell](https://github.com/openclaw/skills/tree/main/skills/imaginelogo/claw-shell/SKILL.md) - 始终使用TMUX会话`claw`
+- [claw-stack](https://github.com/openclaw/skills/tree/main/skills/jdiazofficial) - ClawStack是一个Stack Overflow风格的平台
+- [clawdbot-zoho-email](https://github.com/openclaw/skills/tree/main/skills/briansmith80) - 具有OAuth2、REST的完整Zoho Mail集成
+- [clawfriend](https://github.com/openclaw/skills/tree/main/skills/leeknowsai/clawfriend/SKILL.md) - ClawFriend社交平台和股票交易代理
+- [clawos](https://github.com/openclaw/skills/tree/main/skills/ciooo44/clawos/SKILL.md) - 将OpenClaw代理连接到无创始人工厂 - 一个自主创业平台
+- [clickup-manager](https://github.com/openclaw/skills/tree/main/skills/savelieve/clickup-manager/SKILL.md) - 与ClickUp API交互以进行任务管理
+- [client-reporting](https://github.com/openclaw/skills/tree/main/skills/reighlan/client-reporting/SKILL.md) - 使用OpenClaw为代理商和自由职业者提供自动化客户报告
+- [cloud-backup](https://github.com/openclaw/skills/tree/main/skills/obuchowski/cloud-backup/SKILL.md) - 备份和恢复OpenClaw状态
+- [cloudflare-manager](https://github.com/openclaw/skills/tree/main/skills/1999azzar/cloudflare-manager/SKILL.md) - 管理Cloudflare DNS记录、隧道（cloudflared）和零信任策略
+- [cloudflare-toolkit](https://github.com/openclaw/skills/tree/main/skills/insipidpoint/cloudflare-toolkit/SKILL.md) - 管理Cloudflare域、DNS记录、SSL设置、区域配置、防火墙规则、隧道和分析
